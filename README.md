@@ -1,5 +1,5 @@
 # EXPERIMENT 4
-# Binary operators 
+# Bitwise operators 
 This repository contains C++ programs for performing bitwise and shifting operations and resetting a specific bit. These programs demonstrate basic bit manipulation techniques.  
 ## Tables of content:
 Introduction  
